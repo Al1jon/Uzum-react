@@ -14,6 +14,7 @@ import NotFound from './pages/NotFound';
 function App() {
 
   const [loginText, setLoginText] = useState('Kirish');
+  
  
   return (
 
